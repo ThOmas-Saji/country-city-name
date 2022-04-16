@@ -1,0 +1,48 @@
+{
+  "country": [
+    {
+      "country": "China",
+      "id": 2
+    },
+    {
+      "country": "Pakistan",
+      "id": 3
+    },
+    {
+      "country": "France",
+      "id": 5
+    },
+    {
+      "country": "Canada",
+      "id": 6
+    },
+    {
+      "country": "India",
+      "id": 7
+    },
+    {
+      "country": "America",
+      "id": 8
+    }
+  ],
+  "city": [
+    {
+      "country": "France",
+      "city": "Paris",
+      "population": "544443333",
+      "id": 2
+    },
+    {
+      "country": "India",
+      "city": "Goa",
+      "population": "20202020000000",
+      "id": 4
+    },
+    {
+      "country": "Canada",
+      "city": "Torronto",
+      "population": "10000000000000000",
+      "id": 5
+    }
+  ]
+}

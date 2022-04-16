@@ -1,38 +1,29 @@
-.App {
+.navbar {
+  text-align: center;
+  width: 100%;
+  height: 10vh;
+}
+.navbar > a {
+padding: 1rem;
+}
+
+.Table {
+  width: 100%;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Table {
+  text-align: center;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Table  td {
+  padding: 0.5rem;
+  border: 1px solid black;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Table  tr {
+  padding: 1rem;
 }
-
-.App-link {
-  color: #61dafb;
+.sortButn {
+  padding: 0rem 2rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sortButn > button {
+  margin: 2rem;
 }
